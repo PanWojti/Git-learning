@@ -1,0 +1,30 @@
+/*Title*/
+
+.title {
+  display: flex;
+}
+.title-inner {
+  margin: auto;
+}
+.poem-title {
+  margin: 0;
+  font-family: 'Francois One', serif;
+}
+.poem-author {
+  margin: 0;
+  font-family: 'Francois One', serif;
+}
+
+/*Poem*/
+
+.poem-box {
+  display: flex;
+}
+.poem-text {
+  margin: auto;
+}
+p {
+  font-family: 'Fira Code', serif;
+}
+
+/*Media*/
