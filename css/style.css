@@ -26,5 +26,8 @@
 p {
   font-family: 'Fira Code', serif;
 }
+h3 span {
+  font-style: italic;
+}
 
 /*Media*/
